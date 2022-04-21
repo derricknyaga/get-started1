@@ -1,2 +1,2 @@
-# geting started wth git hb
-hello
+# geting started wth git hub
+hmy project
